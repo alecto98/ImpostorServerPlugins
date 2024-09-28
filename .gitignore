@@ -1,0 +1,14 @@
+# Ignore everything
+/*
+
+# But don't ignore these files and directories
+!.gitignore
+!README.md
+!/ReplayPlugin
+
+# Ignore build outputs and temporary files within ReplayPlugin
+ReplayPlugin/**/bin/
+ReplayPlugin/**/obj/
+ReplayPlugin/**/.vs/
+ReplayPlugin/**/*.user
+ReplayPlugin/**/*.suo
