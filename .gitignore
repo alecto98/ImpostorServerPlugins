@@ -1,14 +1,10 @@
-# Ignore everything
-/*
+# Exclude this folder from the repository
+AmongSusTracker/
 
-# But don't ignore these files and directories
-!.gitignore
-!README.md
-!/ReplayPlugin
-
-# Ignore build outputs and temporary files within ReplayPlugin
-ReplayPlugin/**/bin/
-ReplayPlugin/**/obj/
-ReplayPlugin/**/.vs/
-ReplayPlugin/**/*.user
-ReplayPlugin/**/*.suo
+# Build outputs and IDE artifacts
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.suo
+*.zip
