@@ -1,0 +1,28 @@
+{
+  "MaxPlayers": 10,
+  "Keywords": "English",
+  "Map": "Polus",
+  "NumImpostors": 2,
+  "IsDefaults": false,
+  "PlayerSpeedMod": 1.2,
+  "CrewLightMod": 0.3,
+  "ImpostorLightMod": 1,
+  "KillCooldown": 22.5,
+  "NumCommonTasks": 2,
+  "NumLongTasks": 3,
+  "NumShortTasks": 5,
+  "NumEmergencyMeetings": 1,
+  "EmergencyCooldown": 20,
+  "GhostsDoTasks": true,
+  "KillDistance": "Short",
+  "DiscussionTime": 15,
+  "VotingTime": 120,
+  "ConfirmImpostor": false,
+  "VisualTasks": false,
+  "AnonymousVotes": true,
+  "TaskBarUpdate": "Never",
+  "RoleOptions": {
+    "Version": 7,
+    "Roles": {}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "engineerCoolDown": 25,
+  "engineerInVentMaxTime": 5,
+  "engineerCount": 1,
+  "engineerChance": 20,
+  "scientistCooldown": 25,
+  "scientistBatteryCharge": 5,
+  "scientistCount": 1,
+  "scientistChance": 20,
+  "GACooldown": 0,
+  "GACount": 0,
+  "GAChance": 0,
+  "shapeshifterCooldown": 25,
+  "shapeshifterDuration": 10,
+  "shapeshifterLeaveSkin": true,
+  "shapeshifterCount": 1,
+  "shapeshifterChance": 20
+}
+  
